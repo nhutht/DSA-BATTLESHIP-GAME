@@ -1,5 +1,4 @@
 # DSA-BATTLESHIP-GAME
-# Battleship-DSA-Project
 
 ### Download and Run `DSA-Project-main` Folder Using Visual Studio Code
 
